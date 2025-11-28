@@ -38,12 +38,12 @@
     "specification",
     "yml"
   ],
-  "author": "joolfe04@gmail.com",
+  "author": "chetan.korde@smartbear.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joolfe/postman-to-openapi/issues"
+    "url": "https://github.com/SB-ChetanKorde/postman-to-openapi/issues"
   },
-  "homepage": "https://github.com/joolfe/postman-to-openapi#readme",
+  "homepage": "https://github.com/SB-ChetanKorde/postman-to-openapi#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
