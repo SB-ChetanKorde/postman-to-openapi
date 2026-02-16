@@ -1,0 +1,294 @@
+{
+  "collapseTableOfContents": false,
+  "items": [
+    {
+      "type": "item",
+      "title": "Postman collection to OpenAPI specs",
+      "uri": "/docs/index.md"
+    },
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "DisabledParams",
+      "uri": "/test/resources/output/DisabledParamsQuery.yml"
+    },
+    {
+      "type": "item",
+      "title": "Folder Collection",
+      "uri": "/test/resources/output/Folders.yml"
+    },
+    {
+      "type": "item",
+      "title": "Information sociétaire",
+      "uri": "/test/resources/output/NullHeader.yml"
+    },
+    {
+      "type": "item",
+      "title": "Responses",
+      "uri": "/test/resources/output/ResponsesEmpty.yml"
+    },
+    {
+      "type": "item",
+      "title": "Responses",
+      "uri": "/test/resources/output/ResponsesMultiLang.yml"
+    },
+    {
+      "type": "item",
+      "title": "AuthRequest",
+      "uri": "/test/resources/output/AuthRequest.yml"
+    },
+    {
+      "type": "item",
+      "title": "Postman to OpenAPI",
+      "uri": "/test/resources/output/Basic.json"
+    },
+    {
+      "type": "item",
+      "title": "Folder Collection",
+      "uri": "/test/resources/output/FoldersNoConcat.yml"
+    },
+    {
+      "type": "item",
+      "title": "Folder Collection",
+      "uri": "/test/resources/output/FoldersSeparator.yml"
+    },
+    {
+      "type": "item",
+      "title": "JsonComments",
+      "uri": "/test/resources/output/JsonComments.yml"
+    },
+    {
+      "type": "item",
+      "title": "Parse Status Code",
+      "uri": "/test/resources/output/ParseStatus.yml"
+    },
+    {
+      "type": "item",
+      "title": "Raw Body",
+      "uri": "/test/resources/output/RawBody.yml"
+    },
+    {
+      "type": "item",
+      "title": "Responses",
+      "uri": "/test/resources/output/ResponsesNoHeaders.yml"
+    },
+    {
+      "type": "item",
+      "title": "AuthBearer",
+      "uri": "/test/resources/output/AuthBearer.yml"
+    },
+    {
+      "type": "item",
+      "title": "AuthBearer",
+      "uri": "/test/resources/output/AuthOptions.yml"
+    },
+    {
+      "type": "item",
+      "title": "DisabledParams",
+      "uri": "/test/resources/output/DisabledParamsDefault.yml"
+    },
+    {
+      "type": "item",
+      "title": "External Docs",
+      "uri": "/test/resources/output/ExternalDocs.yml"
+    },
+    {
+      "type": "item",
+      "title": "Get Methods",
+      "uri": "/test/resources/output/GetMethods.yml"
+    },
+    {
+      "type": "item",
+      "title": "Headers",
+      "uri": "/test/resources/output/Headers.yml"
+    },
+    {
+      "type": "item",
+      "title": "License and Contact",
+      "uri": "/test/resources/output/LicenseContact.yml"
+    },
+    {
+      "type": "item",
+      "title": "License and Contact",
+      "uri": "/test/resources/output/LicenseContactOpts.yml"
+    },
+    {
+      "type": "item",
+      "title": "No Version Collection",
+      "uri": "/test/resources/output/NoVersion.yml"
+    },
+    {
+      "type": "item",
+      "title": "Responses",
+      "uri": "/test/resources/output/Responses.yml"
+    },
+    {
+      "type": "item",
+      "title": "MultipleServers",
+      "uri": "/test/resources/output/ServersOpts.yml"
+    },
+    {
+      "type": "item",
+      "title": "Url with Port",
+      "uri": "/test/resources/output/UrlWithPort.yml"
+    },
+    {
+      "type": "item",
+      "title": "Variables",
+      "uri": "/test/resources/output/Variables.yml"
+    },
+    {
+      "type": "item",
+      "title": "Simple Post",
+      "uri": "/test/resources/output/XLogoVar.yml"
+    },
+    {
+      "type": "item",
+      "title": "AuthBearer",
+      "uri": "/test/resources/output/AuthMultiple.yml"
+    },
+    {
+      "type": "item",
+      "title": "Basepath Var",
+      "uri": "/test/resources/output/BasepathVar.yml"
+    },
+    {
+      "type": "item",
+      "title": "Postman to OpenAPI",
+      "uri": "/test/resources/output/BasicNoOptions.yml"
+    },
+    {
+      "type": "item",
+      "title": "Postman to OpenAPI",
+      "uri": "/test/resources/output/BasicWithAuth.yml"
+    },
+    {
+      "type": "item",
+      "title": "Delete Operation",
+      "uri": "/test/resources/output/DeleteOperation.yml"
+    },
+    {
+      "type": "item",
+      "title": "Large Path Params",
+      "uri": "/test/resources/output/DepthPathParams.yml"
+    },
+    {
+      "type": "item",
+      "title": "DisabledParams",
+      "uri": "/test/resources/output/DisabledParamsAll.yml"
+    },
+    {
+      "type": "item",
+      "title": "DisabledParams",
+      "uri": "/test/resources/output/DisabledParamsHeader.yml"
+    },
+    {
+      "type": "item",
+      "title": "Simple Post",
+      "uri": "/test/resources/output/EmptyUrl.yml"
+    },
+    {
+      "type": "item",
+      "title": "External Docs",
+      "uri": "/test/resources/output/ExternalDocsOpts.yml"
+    },
+    {
+      "type": "item",
+      "title": "Form Url Encoded",
+      "uri": "/test/resources/output/FormUrlencoded.yml"
+    },
+    {
+      "type": "item",
+      "title": "Options title",
+      "uri": "/test/resources/output/InfoOpts.yml"
+    },
+    {
+      "type": "item",
+      "title": "MultipleServers",
+      "uri": "/test/resources/output/MultipleServers.yml"
+    },
+    {
+      "type": "item",
+      "title": "MultipleServers",
+      "uri": "/test/resources/output/NoServers.yml"
+    },
+    {
+      "type": "item",
+      "title": "OperationIds",
+      "uri": "/test/resources/output/OperationIdsBrackets.yml"
+    },
+    {
+      "type": "item",
+      "title": "Path Params",
+      "uri": "/test/resources/output/PathParams.yml"
+    },
+    {
+      "type": "item",
+      "title": "Variables",
+      "uri": "/test/resources/output/VariablesAdditional.yml"
+    },
+    {
+      "type": "item",
+      "title": "Simple Post",
+      "uri": "/test/resources/output/XLogo.yml"
+    },
+    {
+      "type": "item",
+      "title": "Postman to OpenAPI",
+      "uri": "/test/resources/output/Basic.yml"
+    },
+    {
+      "type": "item",
+      "title": "Simple Post",
+      "uri": "/test/resources/output/CustomTag.yml"
+    },
+    {
+      "type": "item",
+      "title": "Postman to OpenAPI",
+      "uri": "/test/resources/output/ExternalDocsOptsPartial.yml"
+    },
+    {
+      "type": "item",
+      "title": "Form Data",
+      "uri": "/test/resources/output/FormData.yml"
+    },
+    {
+      "type": "item",
+      "title": "Postman to OpenAPI",
+      "uri": "/test/resources/output/LicenseContactPartial.yml"
+    },
+    {
+      "type": "item",
+      "title": "No Path",
+      "uri": "/test/resources/output/NoPath.yml"
+    },
+    {
+      "type": "item",
+      "title": "OperationIds",
+      "uri": "/test/resources/output/OperationIds.yml"
+    },
+    {
+      "type": "item",
+      "title": "OperationIds",
+      "uri": "/test/resources/output/OperationIdsAuto.yml"
+    },
+    {
+      "type": "item",
+      "title": "AuthBasic",
+      "uri": "/test/resources/output/AuthBasic.yml"
+    },
+    {
+      "type": "item",
+      "title": "AuthBasic",
+      "uri": "/test/resources/output/CollectionWrapper.yml"
+    },
+    {
+      "type": "item",
+      "title": "Postman to OpenAPI",
+      "uri": "/test/resources/output/LicenseContactPartial2.yml"
+    }
+  ]
+}
